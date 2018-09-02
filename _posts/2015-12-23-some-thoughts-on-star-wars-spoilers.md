@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some thoughts on Star Wars (SPOILERS)
-date: 2015-12-23 15:56:32.000000000 -07:00
+date: 2015-12-23 15:56:32
 ---
 ![cover](http://nofilmschool.com/sites/default/files/styles/facebook/public/star_wars-_the_force_awakens_-_comic-con_2015_reel_4.jpeg?itok=yj617nup)
 
@@ -72,3 +72,6 @@ Great writing is hard to achieve. But bad writing is easy to avoid. Getting a so
 But it'll earn a billion dollars. And I want it to, so there will be more.
 
 So that one day, there'll be another Star Wars film as good as Empire Strikes Back.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjU2NDU2NjM1XX0=
+-->
